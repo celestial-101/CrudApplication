@@ -1,7 +1,7 @@
 
 # CrudApplication
 A basic CRUD Web Application created in Spring Tool Suite.    
-Spring Boot along with Rest Api,JPA and MySql database i
+Spring Boot along with Rest Api,JPA and MySql database.
  
 Creator : Ravi Ranjan
 
@@ -25,7 +25,10 @@ Creator : Ravi Ranjan
 
           
 # Explore Rest APIs
-1.Get ("/products"),("/productById/{id}")    
-2.Post ("/addProduct"),("/addProducts")
-3.Put ("/update")
+1.Get ("/products"),("/productById/{id}")         
+
+2.Post ("/addProduct"),("/addProducts")        
+
+3.Put ("/update")     
+
 4.Delete ("/delete/{id}")
